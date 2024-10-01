@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jxuoh.github.io/FkZ/sitemap.FkZ.gz
